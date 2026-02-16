@@ -23,8 +23,8 @@ AWS (EC2, RDS, ELB), Docker, SSL
 
 ## 🚀 Projects
 
-### [IT-DA](https://github.com/dwonc/itda) - AI 추천 회의 플랫폼
-AI로 회의 장소를 추천하고 실시간 채팅을 지원하는 서비스입니다.
+### [IT-DA](https://github.com/dwonc/itda) - AI 모임 추천 플랫폼
+AI로 모임을 추천하고 실시간 채팅을 지원하는 서비스입니다.
 
 **기술**: Spring Boot, FastAPI, React, LightGBM, GPT API  
 **역할**: 백엔드 개발, AI 시스템 설계, 팀 리더
