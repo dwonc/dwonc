@@ -54,11 +54,6 @@ Here are some ideas to get you started:
   - AWS EC2 + RDS + SSL 배포 경험
   - HTTP 4xx 오류 96% 감소 (422 Validation Error 해결)
 
-## 📈 GitHub Stats
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dwonc&show_icons=true&theme=radical)
-
 
 
 ## 📫 Contact
