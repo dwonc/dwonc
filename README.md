@@ -23,7 +23,7 @@ AWS (EC2, RDS, ELB), Docker, SSL
 
 ## 🚀 Projects
 
-### [IT-DA](https://github.com/dwonc/itda) - AI 모임 추천 플랫폼
+### [IT-DA](https://github.com/dwonc/it-da) - AI 모임 추천 플랫폼
 AI로 모임을 추천하고 실시간 채팅을 지원하는 서비스입니다.
 
 **기술**: Spring Boot, FastAPI, React, LightGBM, GPT API  
@@ -37,7 +37,7 @@ AI로 모임을 추천하고 실시간 채팅을 지원하는 서비스입니다
 
 <br/>
 
-### [GUGU Market](https://github.com/dwonc/gugumarket) - 중고거래 플랫폼
+### [GUGU Market](https://github.com/dwonc/gugumarket-frontend) - 중고거래 플랫폼
 실시간 채팅과 결제 기능이 있는 중고거래 서비스입니다.
 
 **기술**: Spring Boot, React, WebSocket, AWS  
