@@ -84,3 +84,7 @@ IT-DA에 RAG를 적용해서 회의록 검색 기능을 만들어볼 예정입�
 - **Portfolio**: [PDF 보기](https://drive.google.com/file/d/1Bf077GIO2zrz9Rs6Az2itggm1Vf7QXOl/view?usp=drive_link)
 
 <br/>
+
+---
+
+**"문제를 제대로 정의하고 구조적으로 해결하는 개발자가 되고 싶습니다."**
