@@ -78,7 +78,7 @@ API 경로가 /api/api로 중복되는 걸 찾아서 수정하고 재배포했�
 
 ## 📫 Contact
 
-- **Email**: dwonc2@naver.com
+- **Email**: dwonc97@gmail.com
 - **Portfolio**: [PDF 보기](https://drive.google.com/file/d/1Bf077GIO2zrz9Rs6Az2itggm1Vf7QXOl/view?usp=drive_link)
 
 <br/>
