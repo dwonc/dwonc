@@ -74,8 +74,6 @@ API 경로가 /api/api로 중복되는 걸 찾아서 수정하고 재배포했�
 - 생성형 AI 서비스 개발
 - Vector Database
 
-IT-DA에 RAG를 적용해서 회의록 검색 기능을 만들어볼 예정입니다.
-
 <br/>
 
 ## 📫 Contact
