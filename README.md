@@ -81,6 +81,6 @@ IT-DA에 RAG를 적용해서 회의록 검색 기능을 만들어볼 예정입�
 ## 📫 Contact
 
 - **Email**: dwonc2@naver.com
-- **Portfolio**: [PDF 보기](https://drive.google.com/file/d/1Bf077GlO2zrz9Rs6Az2itggm1Vf7QXOI/view?usp=drive_link)
+- **Portfolio**: [PDF 보기](https://drive.google.com/file/d/1Bf077GIO2zrz9Rs6Az2itggm1Vf7QXOl/view?usp=drive_link)
 
 <br/>
