@@ -38,7 +38,7 @@ FastAPI 기반 AI 파이프라인 구축 및 AWS 배포 경험을 보유하고 �
 > AI 기반 회의 장소 추천 및 실시간 채팅 서비스
 
 **Tech**: Spring Boot, FastAPI, React, LightGBM, SVD, GPT API  
-**Role**: 백엔드 개발, AI 추천 시스템 설계, 팀 리더 (12인)  
+**Role**: 백엔드 개발, AI 추천 시스템 설계, 팀 리더 (6인)  
 
 **Highlights**:
 - FastAPI 기반 End-to-End AI 추천 파이프라인 구현
