@@ -1,7 +1,7 @@
 # 안녕하세요, 백엔드 개발자 최동원입니다 👋
 
-부트캠프에서 팀 리더를 맡아 6명과 함께 프로젝트를 진행했습니다.  
-Spring Boot로 백엔드를 개발하고, FastAPI로 AI 추천 시스템을 구현했습니다.
+부트캠프에서 팀 리더를 맡아 6명과 함께 프로젝트를 진행했고,  
+현재는 스타트업에서 풀스택 개발자로 실서비스를 개발하고 있습니다.
 
 <br/>
 
@@ -18,6 +18,15 @@ React, TypeScript, WebSocket
 
 **DevOps**  
 AWS (EC2, RDS, ELB), Docker, SSL
+
+<br/>
+
+## 💼 Work Experience
+
+**WSY** | 풀스택 개발자, 팀 리더 (2026.03 ~)
+- 매장 할인/쿠폰 관리 플랫폼 개발
+- Spring Boot 백엔드, Flutter 앱, React Native / React 관리 페이지 개발
+- GCP Cloud Run 배포 및 운영
 
 <br/>
 
