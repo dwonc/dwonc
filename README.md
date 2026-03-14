@@ -14,7 +14,7 @@ Java, Spring Boot, JPA, Python, FastAPI, MySQL, Redis
 LightGBM, SVD, GPT API
 
 **Frontend**  
-React, TypeScript, WebSocket
+React, React Native, TypeScript, Flutter, WebSocket
 
 **DevOps**  
 AWS (EC2, RDS, ELB), Docker, SSL
