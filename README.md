@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Dongwon%20Choi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Startup%20Builder&descSize=16&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Dongwon%20Choi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20AI%20%7C%20Startup&descSize=14&descAlignY=55&descAlign=50" width="100%" />
 
 <br/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%9A%80+Building+Real+Services+at+Startup;%F0%9F%A4%96+Multi-AI+Orchestration+%7C+Claude+%C3%97+GPT+%C3%97+Gemini;%F0%9F%92%AA+Problem+Solver+Who+Ships+Fast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=380&height=45&lines=%F0%9F%9A%80+Startup+Fullstack+Developer;%F0%9F%A4%96+Multi-AI+Orchestration;%F0%9F%92%AA+Problem+Solver+Who+Ships" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -367,8 +367,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dwonc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwonc&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=dwonc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwonc&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" />
 
 <br/><br/>
 
@@ -386,33 +386,47 @@
 ## 🏗 Architecture I Build
 
 ```mermaid
-graph LR
+graph TB
     subgraph "🤖 Multi-AI Layer"
-        DC[Debate Chain] --> Claude[Claude Opus 4.6]
-        DC --> GPT[Codex GPT-5.4]
-        DC --> Gemini[Gemini 2.5]
+        DC[Debate Chain]
+        Claude[Claude Opus 4.6]
+        GPT[Codex GPT-5.4]
+        Gemini[Gemini 2.5]
+        DC --> Claude
+        DC --> GPT
+        DC --> Gemini
     end
 
     subgraph "📱 Frontend"
-        FL[Flutter] --> SB
-        RN[React Native] --> SB
-        RE[React] --> SB
+        FL[Flutter]
+        RN[React Native]
+        RE[React]
     end
 
     subgraph "⚙️ Backend"
-        SB[Spring Boot] --> DB[(PostgreSQL)]
-        FA[FastAPI] --> SB
-        SB --> Redis[(Redis)]
+        SB[Spring Boot]
+        FA[FastAPI]
+        DB[(PostgreSQL)]
+        RD[(Redis)]
+        FA --> SB
+        SB --> DB
+        SB --> RD
     end
 
     subgraph "☁️ Infra"
-        SB --> CR[Cloud Run]
-        SB --> AWS[AWS EC2]
-        CR --> Nginx
+        CR[Cloud Run]
+        AW[AWS EC2]
+        NX[Nginx]
     end
 
-    DC -.->|코드 생성 & 최적화| SB
-    DC -.->|코드 생성 & 최적화| FA
+    FL --> SB
+    RN --> SB
+    RE --> SB
+    SB --> CR
+    SB --> AW
+    CR --> NX
+    DC -.->|코드 생성| SB
+    DC -.->|코드 생성| FA
 ```
 
 <br/>
