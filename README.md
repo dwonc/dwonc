@@ -12,7 +12,7 @@
 
 <!-- Social Badges -->
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwonc97@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-drive&logoColor=white)](https://https://drive.google.com/file/d/18C-f8gMBYwyk_b46SfxW2K86yLT1sKWA/view?usp=drive_link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-drive&logoColor=white)](https://https://drive.google.com/file/d/18C-f8gMBYwyk_b46SfxW2K86yLT1sKWA/view?usp=drive_sharing)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@dwonc)
 
 </div>
