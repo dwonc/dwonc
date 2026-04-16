@@ -23,8 +23,8 @@
 
 > **문제를 제대로 정의하고 구조적으로 해결하는 개발자**
 
-스타트업에서 실서비스를 개발하며 Flutter·React Native·Spring Boot를 넘나드는 풀스택 개발자입니다.  
-부트캠프 6개월간 팀 리더로 2개의 프로젝트를 이끌었고, 현재는 스타트업에서 **기획·개발·마케팅·DevOps**를 동시에 맡고 있습니다.  
+스타트업에서 실서비스를 개발하며 Vue.js·Flutter·Spring Boot·Kotlin·Swift를 넘나드는 풀스택 개발자입니다.
+현재 **Jump**에서 온라인 간판 플랫폼의 **대규모 리팩토링**을 주도하고 있으며, 이전 직장에서는 기획부터 DevOps까지 전 과정을 담당했습니다.
 **Multi-AI 오케스트레이션** 시스템을 직접 설계·구현하며, AI를 단순 도구가 아닌 **개발 파이프라인**으로 활용합니다.
 
 <br/>
@@ -35,17 +35,23 @@
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JOOQ](https://img.shields.io/badge/JOOQ-000000?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Mobile Native
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 ### AI & Data
 ![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logo=lightgbm&logoColor=white)
@@ -74,8 +80,24 @@
 <table>
 <tr>
 <td width="120" align="center">
-<img src="https://img.shields.io/badge/2026.03~-1f6feb?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/2026.04~-1f6feb?style=flat-square" /><br/>
 <b>현재</b>
+</td>
+<td>
+
+### 🏢 Jump — 풀스택 개발자
+> 온라인 간판 플랫폼 · 에듀사업 · 경조사 플랫폼
+
+- **Spring Boot + Kotlin + JOOQ** 백엔드 + **Vue.js 3** 프론트엔드 + **Swift** iOS 개발
+- 레거시 플랫폼 **대규모 리팩토링** 주도 (아키텍처 재설계 + 불필요 모듈 정리)
+- 경조사 플랫폼 확장 개발 진행 중
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center">
+<img src="https://img.shields.io/badge/2026.03-238636?style=flat-square" /><br/>
+<b>이전</b>
 </td>
 <td>
 
@@ -84,9 +106,7 @@
 
 - **Spring Boot** 백엔드 + **Flutter** 고객앱 + **React Native** 사장님앱 + **React** 어드민 개발
 - GCP **Cloud Run** 배포 & **Neon PostgreSQL** 운영
-- FCM 푸시 알림 · 백그라운드 위치 서비스 구현
-- 팀 협업 환경 구축 (Slack, Git Flow)
-- 마케팅 · DevOps 병행
+- FCM 푸시 알림 · 백그라운드 위치 서비스 · 마케팅 · DevOps 병행
 
 </td>
 </tr>
@@ -95,6 +115,31 @@
 <br/>
 
 ## 🚀 Projects
+
+<!-- Jump -->
+<table>
+<tr>
+<td width="60" align="center">🏢</td>
+<td>
+
+### Jump — 온라인 간판 플랫폼
+`실서비스` `스타트업` `리팩토링`
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JOOQ](https://img.shields.io/badge/JOOQ-000000?style=flat-square&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
+> 온라인에서 간판을 확인할 수 있는 플랫폼 + 에듀사업 + 경조사 플랫폼 확장
+
+- Spring Boot + Kotlin + JOOQ 백엔드 & Vue.js 3 프론트엔드 & Swift iOS 앱 풀스택 개발
+- 레거시 플랫폼 **대규모 리팩토링** 주도 — 아키텍처 재설계 + 불필요 모듈 제거
+- Horcrux Multi-AI를 활용한 코드 분석/리팩토링 전략 수립
+
+</td>
+</tr>
+</table>
 
 <!-- WSY -->
 <table>
@@ -129,26 +174,29 @@
 <td>
 
 ### [Horcrux](https://github.com/dwonc/horcrux) — Multi-AI Orchestration System
-`개인 프로젝트` `AI 인프라`
+`개인 프로젝트` `AI 인프라` `실무 활용`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Opus_4.6-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![GPT](https://img.shields.io/badge/Codex_GPT--5.4-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_3.1_Pro-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_Llama-F55036?style=flat-square&logo=groq&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek_V3-0066FF?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-> **6개 AI를 수렴 기반 토론 루프로 오케스트레이션**하는 Multi-AI 시스템
+> **6개 AI를 수렴 기반 토론 루프로 오케스트레이션** + Vision 분석 + QA 자동화
 
-- **Core Pair**: Claude Opus 4.6 (Generator/Synthesizer) + Codex 5.4 (Counter-Generator/Critic)
-- **Aux Critics**: Groq/Llama · DeepSeek V3 · OpenRouter GPT-OSS — 5개 critic 병렬 평가
-- **Planning Pipeline**: 3-AI 병렬 생성 → Opus 합성 → Multi-Critic → Revision Loop → Polish
-- **Adaptive Optimization**: Task Classifier가 intent/risk/scope를 분석하여 5개 모드(auto/fast/standard/full/parallel) 자동 라우팅
-- **Compact Memory**: 3-Layer 메모리 (working/decision/long-term) + Delta Prompting으로 컨텍스트 잘림 방지
-- **Interactive Mode**: semi_interactive 모드에서 score divergence · consensus stall · critic severity 등 5가지 조건으로 auto-pause → 사용자 중간 개입 가능
-- **MCP 통합**: Claude Desktop에서 `horcrux:run`, `horcrux:feedback`, `horcrux:session` 도구로 직접 사용
-- Flask 웹서버 + 실시간 SSE 모니터링 UI
+- **Core Pair**: Claude Opus 4.6 (Generator) + Codex 5.4 (Counter-Generator/Critic)
+- **Aux Critics**: Gemini 3.1 Pro · Groq/Llama · DeepSeek V3 · OpenRouter GPT-OSS — 병렬 평가
+- **Fast v2**: Vision Quick Scan (Gemini 3.1 Pro Vision) → Smart Generator (Opus) → Multi Light Critic 3모델 과반수 합의 → 조건부 Revision
+- **Vision Pipeline**: 스크린샷/URL 입력 → Playwright 캡처 → 이미지 분석 → 코드 생성. `image_path`/`image_base64`/`vision_url` 3가지 방식 지원
+- **Adaptive Routing**: Task Classifier가 intent/risk/scope 분석 → 5개 모드(auto/fast/standard/full/parallel) 자동 라우팅
+- **Compact Memory**: 3-Layer (working/decision/long-term) + Delta Prompting으로 컨텍스트 잘림 방지
+- **QA Autofix CLI**: 테스트 실행 → 실패 evidence 수집 → AI 진단 → 패치 생성 → 자동 적용 → 재검증 → 롤백/에스컬레이션 루프
+- **Claude Code 연동**: 가이드 문서 기반으로 Claude Code에서 자연어로 Horcrux 직접 호출
+- MCP 통합 + Flask 웹서버 + 실시간 SSE 모니터링 UI
 
 </td>
 </tr>
@@ -309,6 +357,17 @@
 ## 💡 Problem Solving Highlights
 
 <details>
+<summary><b>🔍 Fast v2 Vision — 스크린샷 한 장으로 UI 버그 자동 수정</b></summary>
+<br/>
+
+**상황**: Claude Code 단일 모델로 스크린샷 기반 UI 수정 시 루프를 돌며 정확한 수정을 못 하는 문제
+**원인**: 단일 모델은 이미지 분석 → 문제 파악 → 코드 생성을 한 번에 처리하려다 정확도가 떨어짐
+**해결**: Horcrux Fast v2 파이프라인 설계 — Gemini 3.1 Pro Vision으로 이미지 분석(이슈 추출) → Opus 4.6 Generator에 vision context 주입 → 3모델(Codex+Gemini Pro+DeepSeek) 과반수 합의 critic
+**결과**: 깨진 대시보드 UI 스크린샷에서 5개 이슈 자동 감지 + 수정된 전체 HTML/CSS 코드 생성 (8.0/10)
+
+</details>
+
+<details>
 <summary><b>🔍 AI 추천 점수 차별화 — 점수가 전부 비슷하게 나오는 문제</b></summary>
 <br/>
 
@@ -371,9 +430,10 @@
 
 | 분야 | 학습 내용 | 기간 |
 |:---:|:---|:---:|
-| 🤖 **AI 심화** | LangChain · RAG · Vector DB · 생성형 AI 서비스 개발 | 2026.03 ~ 05 |
-| 🔗 **MCP** | Model Context Protocol · Claude Desktop 통합 | 진행 중 |
+| 🤖 **AI Orchestration** | Multi-Model 파이프라인 · Vision 분석 · QA 자동화 | 진행 중 |
+| 🔗 **MCP** | Model Context Protocol · Claude Code 연동 | 진행 중 |
 | 📊 **ML/DL** | XGBoost · LSTM · Transformer (금융 예측 특화) | 진행 중 |
+| 📱 **Mobile Native** | Swift (iOS) · Kotlin (Android) | 2026.04 ~ |
 
 </div>
 
@@ -407,32 +467,42 @@ graph TB
         HX[Horcrux Engine]
         Claude[Claude Opus 4.6]
         Codex[Codex GPT-5.4]
-        Gemini[Gemini 2.5]
+        Gemini[Gemini 3.1 Pro]
         Groq[Groq/Llama 70B]
         DS[DeepSeek V3]
         OR[OpenRouter GPT-OSS]
+        VIS[Vision Pipeline]
+        QA[QA Autofix CLI]
         HX --> Claude
         HX --> Codex
         HX --> Gemini
         HX -.->|Aux Critics| Groq
         HX -.->|Aux Critics| DS
         HX -.->|Aux Critics| OR
+        HX --> VIS
+        HX --> QA
     end
 
     subgraph "📱 Frontend"
+        VUE[Vue.js 3]
         FL[Flutter]
         RN[React Native]
         RE[React]
     end
 
     subgraph "⚙️ Backend"
-        SB[Spring Boot]
+        SB[Spring Boot + Kotlin]
         FA[FastAPI]
         DB[(PostgreSQL)]
         RD[(Redis)]
-        FA --> SB
-        SB --> DB
+        JQ[JOOQ]
+        SB --> JQ
+        JQ --> DB
         SB --> RD
+    end
+
+    subgraph "📱 Native"
+        SW[Swift iOS]
     end
 
     subgraph "☁️ Infra"
@@ -442,15 +512,18 @@ graph TB
         MCP[MCP Server]
     end
 
+    VUE --> SB
     FL --> SB
     RN --> SB
     RE --> SB
+    SW --> SB
     SB --> CR
     SB --> AW
     CR --> NX
     HX -->|MCP| MCP
-    HX -.->|코드 생성 & 설계| SB
-    HX -.->|코드 생성 & 설계| FA
+    HX -.->|코드 분석 & 리팩토링| SB
+    HX -.->|QA 자동화| QA
+    VIS -.->|스크린샷 분석| Gemini
 ```
 
 <br/>
