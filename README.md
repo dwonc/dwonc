@@ -21,11 +21,12 @@
 
 ## 🧑‍💻 About Me
 
-> **문제를 제대로 정의하고 구조적으로 해결하는 개발자**
+> **앱·웹·서버·운영을 한 사람이 처음부터 끝까지 맡습니다.**
 
-스타트업에서 실서비스를 개발하며 Vue.js·Flutter·Spring Boot·Kotlin·Swift를 넘나드는 풀스택 개발자입니다.
-현재 **Jump**에서 온라인 간판 플랫폼의 **대규모 리팩토링**을 주도하고 있으며, 이전 직장에서는 기획부터 DevOps까지 전 과정을 담당했습니다.
-**Multi-AI 오케스트레이션** 시스템을 직접 설계·구현하며, AI를 단순 도구가 아닌 **개발 파이프라인**으로 활용합니다.
+2026년 4월부터 운영 중인 플랫폼 **간판ON**의 백엔드·프론트·Android/iOS 앱·인프라를 **혼자** 맡고 있습니다. (REST API 540+ · Java 3만+ 라인 · Vue 화면 740+)
+그 밖에 **외주**로 업무관리 웹, 앱 MVP, 카카오톡 챗봇을 만들어 납품하고 운영까지 맡습니다.
+만드는 것만이 아니라 배포하고, 장애를 고치고, 스토어 정책에 맞춰 다시 올리는 일까지가 제 범위입니다.
+**Multi-AI 오케스트레이션**(Horcrux)을 직접 만들어 코드 리뷰·QA에 매일 씁니다.
 
 <br/>
 
@@ -85,28 +86,43 @@
 </td>
 <td>
 
-### 🏢 Jump — 풀스택 개발자
-> 온라인 간판 플랫폼 · 에듀사업 · 경조사 플랫폼
+### 🏢 Jump — 간판ON 개발·운영 1인 전담
+> 소상공인 사업장을 '온라인 간판'으로 노출·연결하는 플랫폼 · 소비자 앱(Android·iOS) + 관리자 웹 4종 + QR 랜딩
 
-- **Spring Boot + Kotlin + JOOQ** 백엔드 + **Vue.js 3** 프론트엔드 + **Swift** iOS 개발
-- 레거시 플랫폼 **대규모 리팩토링** 주도 (아키텍처 재설계 + 불필요 모듈 정리)
-- 경조사 플랫폼 확장 개발 진행 중
+- **Spring Boot + jOOQ** 백엔드 · **Vue 3** 웹 4종 · Android/iOS 앱 · AWS 인프라 전담
+- 매주 기능 릴리스, 테스트 서버 검증 후 운영 반영 · **블루-그린 무중단 배포** 구축
+- 운영 장애 대응·DB 복구, Google Play target SDK 36 대응, Feature Flag 단계 공개
 
 </td>
 </tr>
 <tr>
 <td width="120" align="center">
-<img src="https://img.shields.io/badge/2026.03-238636?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/2026.09~-8957e5?style=flat-square" /><br/>
+<b>외주</b>
+</td>
+<td>
+
+### 💼 프리랜서 — 외주 개발
+> 요구 정리 → 범위 확정 → 화면·데이터 설계 → 구현 → 배포·운영까지
+
+- 퀵·화물 주선업체 **업무관리 웹(PWA) + 소개 홈페이지** 구축·AWS 운영 배포
+- 위치 기반 할인 앱 MVP → **정식 버전 재의뢰**
+- 보건관리 업무용 **카카오톡 챗봇** 구축·납품
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center">
+<img src="https://img.shields.io/badge/2026.02~03-238636?style=flat-square" /><br/>
 <b>이전</b>
 </td>
 <td>
 
-### 🏢 WSY (할인꿀팁) — 풀스택 개발자 & 팀 리더
+### 🏢 WSY (할인꿀팁) — 스타트업 의뢰 MVP 주도 개발
 > 위치 기반 매장 할인/쿠폰 알림 서비스
 
-- **Spring Boot** 백엔드 + **Flutter** 고객앱 + **React Native** 사장님앱 + **React** 어드민 개발
-- GCP **Cloud Run** 배포 & **Neon PostgreSQL** 운영
-- FCM 푸시 알림 · 백그라운드 위치 서비스 · 마케팅 · DevOps 병행
+- **Spring Boot** API + **Flutter** 고객앱 + **React Native** 사장님앱 + **React** 관리자 웹
+- FCM 푸시 · 백그라운드 위치 갱신 · GCP Cloud Run 배포
 
 </td>
 </tr>
@@ -116,26 +132,70 @@
 
 ## 🚀 Projects
 
-<!-- Jump -->
+<!-- 간판ON -->
 <table>
 <tr>
 <td width="60" align="center">🏢</td>
 <td>
 
-### Jump — 온라인 간판 플랫폼
-`실서비스` `스타트업` `리팩토링`
+### 간판ON — 운영 플랫폼 1인 전담 ([ganpanon.com](https://ganpanon.com))
+`실서비스` `운영 중` `1인 전담`
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JOOQ](https://img.shields.io/badge/JOOQ-000000?style=flat-square&logoColor=white)
+![JOOQ](https://img.shields.io/badge/jOOQ-000000?style=flat-square&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-> 온라인에서 간판을 확인할 수 있는 플랫폼 + 에듀사업 + 경조사 플랫폼 확장
+> REST API 540+ · Java 3만+ 라인 · Vue 화면·컴포넌트 740+ · 스토어 앱 2종
 
-- Spring Boot + Kotlin + JOOQ 백엔드 & Vue.js 3 프론트엔드 & Swift iOS 앱 풀스택 개발
-- 레거시 플랫폼 **대규모 리팩토링** 주도 — 아키텍처 재설계 + 불필요 모듈 제거
-- Horcrux Multi-AI를 활용한 코드 분석/리팩토링 전략 수립
+- 간판 ON/OFF, 카테고리·지역 노출 알고리즘, 노출 통계 · 찜·구독, 푸시 알림
+- QR 랜딩(매장·학원·교회 랜딩, 메뉴판, 접수함) · 치매 안심태그(QR 스캔 → 보호자 연락·SMS 폴백)
+- 쿠폰 공유 이벤트 발급·차감 · 온라인 추모관 · JUMP ID 통합 로그인(SSO) + 소셜 로그인 3종
+- 관리자 웹 4종(사업자·운영 관리자·교회·웰다잉)
+- 블루-그린 무중단 배포 스크립트(롤백·점검 모드) · Playwright E2E 회귀 검증 · AWS 이관 리허설
+
+</td>
+</tr>
+</table>
+
+<!-- Freelance: 물류 -->
+<table>
+<tr>
+<td width="60" align="center">🚚</td>
+<td>
+
+### 퀵·화물 업무관리 웹 — 외주
+`외주` `운영 배포` `PWA`
+
+> 본사·지점·영업사원·고객사가 함께 쓰는 퀵·화물 접수·배차·정산 업무관리 웹 + 회사 소개 홈페이지
+
+- 역할별 화면(본사·지점·영업·고객사)과 권한 설계, 설치형 웹앱(PWA)
+- 대표님 통화·카톡 요구를 기능 단위로 정리해 범위를 문서로 확정한 뒤 구현
+- AWS 운영 배포 · HTTPS 적용
+
+</td>
+</tr>
+</table>
+
+<!-- Freelance: 챗봇 -->
+<table>
+<tr>
+<td width="60" align="center">💬</td>
+<td>
+
+### 보건관리 카카오톡 챗봇 — 외주
+`외주` `납품 완료`
+
+![KakaoTalk](https://img.shields.io/badge/카카오_i_오픈빌더-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black)
+
+> 사내 보건관리 문의(독감 접종·검진 등)에 바로 답하고, 필요하면 상담원 1:1로 넘기는 챗봇
+
+- 카테고리 7개 × 세부 질문 시나리오, 블록마다 예시 발화로 비슷한 질문도 연결
+- 건강정보를 묻는 질문은 챗봇에서 빼고 상담원 연결로 넘김
+- 고객이 직접 고칠 수 있게 운영 가이드 작성, 채널 권한 이관까지
 
 </td>
 </tr>
@@ -148,20 +208,21 @@
 <td>
 
 ### WSY 할인꿀팁 — 위치 기반 할인 알림 서비스
-`실서비스` `스타트업`
+`스타트업 의뢰` `2026.02~03` `정식 버전 재의뢰(2026.09~)`
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![GCP](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Neon_PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 > 사용자 위치 기반으로 주변 매장의 할인/쿠폰 정보를 실시간으로 알려주는 O2O 플랫폼
 
 - Flutter 고객앱 + React Native 사장님앱 + React 어드민 페이지 풀스택 개발
 - FCM 푸시 알림 & `Timer.periodic` 백그라운드 위치 추적 구현
 - React Native 런타임 크래시 & 배너 이미지 업로드 500 에러 해결 (`axios` → `fetch()` 전환)
-- GCP Cloud Run 배포 · Neon PostgreSQL 데이터 관리
+- Haversine 거리 계산으로 반경 판정·근접순 정렬 · GCP Cloud Run 배포
+- MVP 시연 후 발주사가 **정식 버전 개발을 다시 의뢰** — Geofence 알림·위치 권한 흐름·스토어 심사 대응까지
 
 </td>
 </tr>
@@ -536,7 +597,7 @@ graph TB
 
 <br/>
 
-**"문제를 제대로 정의하고 구조적으로 해결하는 개발자가 되고 싶습니다."**
+**"개발을 몰라도 팀이 지금 무엇이 되고 있는지 알 수 있게 일합니다."**
 
 <br/>
 
