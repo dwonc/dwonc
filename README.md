@@ -108,6 +108,7 @@
 - 퀵·화물 주선업체 **업무관리 웹(PWA) + 소개 홈페이지** 구축·AWS 운영 배포
 - 위치 기반 할인 앱 MVP → **정식 버전 재의뢰**
 - 보건관리 업무용 **카카오톡 챗봇** 구축·납품
+- 복약 확인 서비스 **마음한알** 백엔드 — 약봉투 OCR·식약처 데이터 매칭 API (진행 중)
 
 </td>
 </tr>
@@ -175,6 +176,31 @@
 - 역할별 화면(본사·지점·영업·고객사)과 권한 설계, 설치형 웹앱(PWA)
 - 대표님 통화·카톡 요구를 기능 단위로 정리해 범위를 문서로 확정한 뒤 구현
 - AWS 운영 배포 · HTTPS 적용
+
+</td>
+</tr>
+</table>
+
+<!-- Freelance: 마음한알 -->
+<table>
+<tr>
+<td width="60" align="center">💊</td>
+<td>
+
+### 마음한알 — 약봉투 사진으로 복약 확인 (백엔드 외주)
+`외주` `진행 중` `2026.11~`
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel_Functions-000000?style=flat-square&logo=vercel&logoColor=white)
+![CLOVA OCR](https://img.shields.io/badge/CLOVA_OCR-03C75A?style=flat-square&logo=naver&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_구조화-D97706?style=flat-square&logo=anthropic&logoColor=white)
+
+> 약봉투 사진 한 장으로 먹는 약을 확인하고, 약사가 검수한 주의 문장 카드를 보여주는 서비스의 백엔드
+
+- 사진 → **CLOVA OCR** → 개인정보 필터 → **LLM**으로 약 이름·용법 구조화
+- **식약처 의약품 허가정보 API**와 매칭해 약을 확정, 카드 문장은 검수된 고정 문장만 조회 (의료 판단 생성 금지)
+- 흔들림·구김·손글씨 등 가상 약봉투 6종으로 통과 기준을 정하고 LLM 3종 비교 후 선택
+- Vercel Functions(`/api`) 배포 · 오류 코드·API 명세 문서화 · 프론트 연동·통합 테스트 지원
 
 </td>
 </tr>
