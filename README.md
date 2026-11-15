@@ -97,7 +97,7 @@
 </tr>
 <tr>
 <td width="120" align="center">
-<img src="https://img.shields.io/badge/2026.09~-8957e5?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/2026.02~-8957e5?style=flat-square" /><br/>
 <b>외주</b>
 </td>
 <td>
